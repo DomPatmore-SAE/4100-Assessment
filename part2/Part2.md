@@ -5,8 +5,11 @@ You have been given a brief for a landing page, and have been given a wireframe 
 2. The main color chosen is a cobalt blue (hsl(220, 80%, 30%)); Using sass variable and color theory, create a tricolor template and add a primary,secondary, and teritiary colour variable. In your Sass file, briefly explain your choice of colours. (10 points)
 
 3. The landing page should contain semantic markup *wherever* possible, including the container for the video. (5 points)
-4. The address should have a suitable microformat applied (10 points)
-5. The background of the submit button should use the secondary colour (5 points)
+4. The metadata of the landing page should have the following:
+ keywords: cryptocurrency,blockchain
+ description: "This blog highlights good practices using blockchain infrastructure"
+5. The address should have a suitable microformat applied (10 points)
+6. The background of the submit button should use the secondary colour (5 points)
 
 
 For the mobile view (20 points):
