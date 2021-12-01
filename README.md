@@ -1,6 +1,6 @@
 # 4100-Assessment
 
-This 3-hour exam is in 2 parts.
+This 2.5-hour exam is in 2 parts.
 Part 1 is a series of short questions and tasks (25 points)
 
 Part 2 is a longer practical task. You should spend the bulk of your time here. (75 points)
